@@ -9,11 +9,12 @@ kritera:
 - gym
 - bbq
 - break conrtact
+
 format:
 
-# name
-# url
-# type
-# price
-# avalibale
-# size
+- name
+- url
+- type
+- price
+- avalibale
+- size
