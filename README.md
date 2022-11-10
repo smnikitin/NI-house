@@ -18,4 +18,4 @@ format:
 - price
 - avalibale
 - size
-- rating 
+- rating (peaple)
