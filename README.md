@@ -9,6 +9,7 @@ kritera:
 - gym
 - bbq
 - break conrtact
+- not low skore (more 4.0)
 
 format:
 
