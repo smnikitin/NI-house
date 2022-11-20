@@ -20,3 +20,5 @@ format:
 - avalibale
 - size
 - rating (peaple)
+
+![sub_map_bos](https://github.com/smnikitin/NI-house/blob/main/map/sub_map_bos.JPG)
