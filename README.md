@@ -21,4 +21,18 @@ format:
 - size
 - rating (peaple)
 
+## MAP
+
 ![sub_map_bos](https://github.com/smnikitin/NI-house/blob/main/map/sub_map_bos.JPG)
+
+## Comparisig
+
+
+| Name | Pirce | size | location |
+| -----| ----- | ---- | -------- |
+| [Atmark]((http://dev.nodeca.com))   | 3200  | 1000 | Aliwife |
+| [Atmark]((http://dev.nodeca.com))   | 3200  | 1000 | Aliwife |
+| [Atmark]((http://dev.nodeca.com))   | 3200  | 1000 | Aliwife |
+| [Atmark]((http://dev.nodeca.com))   | 3200  | 1000 | Aliwife |
+| [Atmark]((http://dev.nodeca.com))   | 3200  | 1000 | Aliwife |
+| [Atmark]((http://dev.nodeca.com))   | 3200  | 1000 | Aliwife |
