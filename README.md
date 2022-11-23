@@ -28,26 +28,25 @@ format:
 
 
 ##7 factors (1-10)
-
-Price 
-Size
-Layout of the room(floor plan)
-Sunshine (direction)
-Balcony
-Minutes walk to the station
-Minutes walk to tj or wholefoods
-Party place 
-Grill pace
-Pool area 
-Gym 
-Quiet/ noisy 
-Build time 
-Community activities 
-Bluebikes
-Restaurants 
-Policy to cancel 
-Coffee bar
-Theater 
+-Price 
+-Size
+-Layout of the room(floor plan)
+-Sunshine (direction)
+-Balcony
+-Minutes walk to the station
+-Minutes walk to tj or wholefoods
+-Party place 
+-Grill pace
+-Pool area 
+-Gym 
+-Quiet/ noisy 
+-Build time 
+-Community activities 
+-Bluebikes
+-Restaurants 
+-Policy to cancel 
+-Coffee bar
+-Theater 
 
 
 
