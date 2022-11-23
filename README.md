@@ -28,6 +28,7 @@ format:
 
 
 ##7 factors (1-10)
+
 -Price 
 -Size
 -Layout of the room(floor plan)
