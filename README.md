@@ -57,9 +57,9 @@ format:
 ## Comparisig
 
 
-| Name | Pirce | size | location | location | location | location | location | location | location | location |
-| -----| ----- | ---- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |-------- |
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife |
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife |
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife |
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife |
+| Name | Pirce | size | location | location | location | location | location | location | location | 
+| -----| ----- | ---- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
