@@ -27,7 +27,7 @@ format:
 
 
 
-##7 factors (1-10)
+## 7 factors (1-10)
 
 - Price 
 - Size
@@ -48,6 +48,8 @@ format:
 - Policy to cancel 
 - Coffee bar
 - Theater 
+- CVC
+- start day
 
 
 
@@ -55,11 +57,9 @@ format:
 ## Comparisig
 
 
-| Name | Pirce | size | location |
-| -----| ----- | ---- | -------- |
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife |
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife |
-| [Atmark](http://dev.nodeca.com)  | 3200  | 1000 | Aliwife |
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife |
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife |
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife |
+| Name | Pirce | size | location | location | location | location | location | location | location | location |
+| -----| ----- | ---- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |-------- |
+| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife |
+| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife |
+| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife |
+| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife |
