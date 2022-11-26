@@ -61,9 +61,9 @@ format:
 ## Comparing
 
 
-| Name | Price | Size | Location | Move-in | Score | Amenities | Notes | 
-| --- | --- | --- | --- | --- | --- | --- | --- | 
-| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
-| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
-| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
-| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife |  
+| Name | Price | Size | Location | Move-in | Score | Amenities | To TJ/CVC/T | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
