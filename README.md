@@ -1,15 +1,15 @@
 # NI-house
-way to find new house in boston area in 2022
-kritera:
-- need to be cluse to T stataion
+way to find new house in Boston area in 2022
+criteria:
+- need to be close to T station
 - need to be not log by T to downtown
-- walk disatnce to groserry
+- walk distance to grocery
 - not more then 4k/m
-- swiming pool
+- swimming pool
 - gym
 - bbq
-- break conrtact
-- not low skore (more 4.0)
+- break contract
+- not low score (more 4.0)
 
 format:
 
@@ -17,9 +17,9 @@ format:
 - url
 - type
 - price
-- avalibale
+- available
 - size
-- rating (peaple)
+- rating (people)
 
 ## MAP
 
@@ -51,14 +51,16 @@ format:
 - CVC
 - start day
 - Bath
+- Internet
+- safety(homeless people)
+- indoor laundry
+- kitchen smoke 
 
 
+## Comparing
 
 
-## Comparisig
-
-
-| Name | Pirce | size | location | location | location | location | location | location | location | 
+| Name | Price | size | location | location | location | location | location | location | location | 
 | -----| ----- | ---- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
 | [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
