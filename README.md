@@ -10,6 +10,7 @@ criteria:
 - bbq
 - break contract
 - not low score (more 4.0)
+- available before Jan10
 
 format:
 
@@ -60,9 +61,9 @@ format:
 ## Comparing
 
 
-| Name | Price | size | location | location | location | location | location | location | location | 
-| -----| ----- | ---- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
-| [Atmark](http://dev.nodeca.com)   | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| Name | Price | Size | Location | Move-in | Score | Amenities | To TJ/CVC/T | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
