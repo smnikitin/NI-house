@@ -67,3 +67,7 @@ format:
 | [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
 | [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
 | [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+
+## ideal Floor Plans
+
+![ideal_floorpan](https://github.com/smnikitin/NI-house/blob/main/floor/ideal_floorpan.JPG)
