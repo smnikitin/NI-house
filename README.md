@@ -64,7 +64,7 @@ format:
 | Name | Price | Size | Location | Move-in | Score | Amenities | To TJ/CVC/T | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
-| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [CAMB_PA](https://www.livecambridgepark.com/floorplans) | 3766  | 1115  | Aliwife | Dec10 | All | 1/10/10 | Aliwife | one/sauna | 
 | [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
 | [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
 
