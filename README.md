@@ -65,7 +65,7 @@ format:
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
 | [CAMB_PA](https://www.livecambridgepark.com/floorplans) | 3766  | 1115  | Aliwife | Dec10 | 4.3(153) | yes | 1/10/10  | one/sauna | 
-| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Win_CPA](https://www.windsoratcambridgepark.com/floorplans) | 3540  | 1151 | Aliwife | Dec2 | 4.3(79)| yes | 13/13/4 | cancel | 
 | [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
 
 ## ideal Floor Plans
