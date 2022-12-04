@@ -66,7 +66,8 @@ format:
 | [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
 | [CAMB_PA](https://www.livecambridgepark.com/floorplans) | 3766  | 1115  | Aliwife | Dec10 | 4.3(153) | yes | 1/10/10  | one/sauna | 
 | [Win_CPA](https://www.windsoratcambridgepark.com/floorplans) | 3540  | 1151 | Aliwife | Dec2 | 4.3(79)| yes | 13/13/4 | cancel | 
-| [Atmark](https://www.liveatmark.com/floorplans) | 3200  | 1000 | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | Aliwife | 
+| [Avalon](https://new.avaloncommunities.com/massachusetts/somerville-apartments/avalon-at-assembly-row/?utm_source=gmb&utm_medium=organic&utm_campaign=gmblist#community-unit-listings) | 3959  | 1136  | assemble | Dec27 | 4.8(131) | no | 3/4/5 | area | 
+| [R_Edge](https://www.rentatriversedge.com/floor-plans) | 3402  | 1115  | wellington | Dec12 | 4.2(54)| yes | 19/19/14 | far | 
 
 ## ideal Floor Plans
 
