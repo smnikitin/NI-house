@@ -68,6 +68,7 @@ format:
 | [Win_CPA](https://www.windsoratcambridgepark.com/floorplans) | 3540  | 1151 | Aliwife | Dec2 | 4.3(79)| yes | 13/13/4 | cancel | 
 | [Avalon](https://new.avaloncommunities.com/massachusetts/somerville-apartments/avalon-at-assembly-row/?utm_source=gmb&utm_medium=organic&utm_campaign=gmblist#community-unit-listings) | 3959  | 1136  | assemble | Dec27 | 4.8(131) | no | 3/4/5 | area | 
 | [R_Edge](https://www.rentatriversedge.com/floor-plans) | 3402  | 1115  | wellington | Dec12 | 4.2(54)| yes | 19/19/14 | far | 
+| [Radio](https://www.windsorradiofactory.com/floorplans) | 2890   | 996  | oak_grove | Now | 4.6 (90)| yes | 28/28/8 | party | 
 
 ## ideal Floor Plans
 

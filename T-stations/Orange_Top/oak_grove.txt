@@ -25,6 +25,8 @@ Disadvantages:
 
 
 Total impression (H): thumb down
+Total impression (S): thumb down
+
 
 
 
@@ -50,6 +52,8 @@ Disadvantages:
 2. One building is pretty new, but other two are quite old
 
 Total impression (H): thumb up 
+Total impression (S): thumb up
+
 
 
 
