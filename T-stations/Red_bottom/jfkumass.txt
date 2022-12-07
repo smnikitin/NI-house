@@ -35,5 +35,6 @@ Disadvantages:
 
 
 Total impression (H): thumb down
+Total impression (S): thumb down
 
 ---
