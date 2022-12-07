@@ -1,8 +1,12 @@
 # NI-house
-way to find new house in Boston area in 2022
-criteria:
+
+## This repository focuses on how to find new luxury apartments to rent in the Boston area in December 2022.
+
+## progress  15 from 24 
+
+criteria, 7 factors (1-10):
 - need to be close to T station
-- need to be not log by T to downtown
+- need to be not long by T to downtown
 - walk distance to grocery
 - not more then 4k/m
 - swimming pool
@@ -11,25 +15,6 @@ criteria:
 - break contract
 - not low score (more 4.0)
 - available before Jan10
-
-format:
-
-- name
-- url
-- type
-- price
-- available
-- size
-- rating (people)
-
-## MAP
-
-![sub_map_bos](https://github.com/smnikitin/NI-house/blob/main/map/sub_map_bos.JPG)
-
-
-
-## 7 factors (1-10)
-
 - Price 
 - Size
 - Layout of the room(floor plan)
@@ -56,6 +41,22 @@ format:
 - safety(homeless people)
 - indoor laundry
 - kitchen smoke 
+- help with movers
+- how fast apts sold out
+
+format:
+
+- name
+- url
+- type
+- price
+- available
+- size
+- rating (people)
+
+## MAP
+
+![sub_map_bos](https://github.com/smnikitin/NI-house/blob/main/map/sub_map_bos.JPG)
 
 
 ## Comparing
@@ -77,3 +78,4 @@ format:
 ## Movers
 
 [Gentle Giant Moving Company](https://www.gentlegiant.com/moving-services/local-moving-company/) 
+[Precision Moving Company](https://precisionmoving.com/about-precision-moving/) 
