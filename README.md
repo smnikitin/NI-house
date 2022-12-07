@@ -1,8 +1,8 @@
 # NI-house
 
-## This repository focuses on how to find new luxury apartments to rent in the Boston area in December 2022.
+This repository focuses on how to find new luxury apartments to rent in the Boston area in December 2022.
 
-## progress  15 from 24 
+## progress:  15 from 24 
 
 criteria, 7 factors (1-10):
 - need to be close to T station
@@ -77,5 +77,5 @@ format:
 
 ## Movers
 
-[Gentle Giant Moving Company](https://www.gentlegiant.com/moving-services/local-moving-company/) 
-[Precision Moving Company](https://precisionmoving.com/about-precision-moving/) 
+- [Gentle Giant Moving Company](https://www.gentlegiant.com/moving-services/local-moving-company/) 
+- [Precision Moving Company](https://precisionmoving.com/about-precision-moving/) 
