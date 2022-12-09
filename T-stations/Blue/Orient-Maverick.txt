@@ -23,6 +23,7 @@ Disadvantages:
 6. Expensive: 4015$ / month
 
 Total impression (H): thumb up
+Total impression (S): thumb up
 
 
 
@@ -55,6 +56,7 @@ Disadvantages:
 
 
 Total impression (H): thumb down
+Total impression (S): thumb down
 
 
 
