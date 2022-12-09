@@ -69,6 +69,9 @@ criteria, 7 factors (1-10):
 - kitchen smoke 
 - help with movers
 - how fast apts sold out
+- how many units
+- neibewood
+
 
 format:
 
