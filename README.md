@@ -18,7 +18,7 @@ This repository focuses on how to find new luxury apartments to rent in the Bost
 | [CAMB_PA](https://www.livecambridgepark.com/floorplans) | 3766  | 1115  | Aliwife | Dec10 | 4.3(153) | yes | 1/10/10  | one/sauna | 
 | [Win_CPA](https://www.windsoratcambridgepark.com/floorplans) | 3540  | 1151 | Aliwife | Dec2 | 4.3(79)| yes | 13/13/4 | cancel | 
 | [Radio](https://www.windsorradiofactory.com/floorplans) | 2890   | 996  | oak_grove | Dec4 | 4.6 (90)| yes | 28/28/8 | party | 
-| [Troy](https://www.equityapartments.com/boston/south-end/troy-boston-apartments#/#bedroom-type-section-2) | 3890   | 819  | broadway | Dec5 | 4.4 (134) | yes | 2/2/7 | students | 
+| [Eddy](https://eddyliving.com/apartments) | $4,048   | 911   | Maverick | Dec9 | 4.5 (65) | yes | 8/8/5 | view/cakak | 
 
 
 ## ideal Floor Plans
