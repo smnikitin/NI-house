@@ -2,7 +2,7 @@
 
 This repository focuses on how to find new luxury apartments to rent in the Boston area in December 2022.
 
-## progress: 80%  (20 from 25)
+## progress: 92%  (23 from 25)
 
 ## MAP
 
@@ -29,6 +29,12 @@ This repository focuses on how to find new luxury apartments to rent in the Bost
 
 - [Gentle Giant Moving Company](https://www.gentlegiant.com/moving-services/local-moving-company/) 
 - [Precision Moving Company](https://precisionmoving.com/about-precision-moving/) 
+
+Piece by piece 
+father and son
+star hopper
+boston moving company
+
 
 criteria, 7 factors (1-10):
 - need to be close to T station
