@@ -2,7 +2,7 @@
 
 This repository focuses on how to find new luxury apartments to rent in the Boston area in December 2022.
 
-## progress: 92%  (23 from 25)
+## progress: 96%  (24 from 25)
 
 ## MAP
 
