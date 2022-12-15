@@ -2,19 +2,18 @@
 
 This repository focuses on how to find new luxury apartments to rent in the Boston area in December 2022.
 
-## progress: 96%  (24 from 25)
+## progress: 96%  (24 from 25 apartments were seen)
 
 ## MAP
 
 ![sub_map_bos](https://github.com/smnikitin/NI-house/blob/main/map/sub_map_bos.JPG)
 
 
-## Comparing
-
+## Comparing (final short list)
 
 | Name | Price | Size | Location | Move-in | Score | Amenities | To TJ/CVC/T | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| [Atmark](https://www.liveatmark.com/floorplans) | 3847   | 1049 | Aliwife | Dec12 | 4.1(101) | yes | 7/7/17 | home | 
+| [Atmark](https://www.liveatmark.com/floorplans) | 3847   | 1049 | Aliwife | Dec12 | 4.1(101) | yes | 7/7/17 | baseline | 
 | --- | ---  | --- | --- | --- | --- | --- | --- | --- | 
 | [CAMB_PA](https://www.livecambridgepark.com/floorplans) | 3766  | 1115  | Aliwife | Dec10 | 4.3(153) | yes | 1/10/10  | one/sauna | 
 | [montaje](https://livemontaje.com/floorplans/) | 3929  | 1187 | Assemble | Dec17 | 4.3(79)| yes | 6/6/3 | view/areas | 
@@ -30,14 +29,13 @@ This repository focuses on how to find new luxury apartments to rent in the Bost
 
 - [Gentle Giant Moving Company](https://www.gentlegiant.com/moving-services/local-moving-company/) 
 - [Precision Moving Company](https://precisionmoving.com/about-precision-moving/) 
+- [Piece by piece](https://piecebypiecemovers.com/)
+- [stairhoppers](https://stairhoppers.com/)
+- [Smart Penny Moving](https://smartpennymoving.com/)
+- [Intelligent ](https://intelligentlabor.com/)
 
-Piece by piece 
-father and son
-star hopper
-boston moving company
 
-
-criteria, 7 factors (1-10):
+## criteria:
 - need to be close to T station
 - need to be not long by T to downtown
 - walk distance to grocery
@@ -80,7 +78,7 @@ criteria, 7 factors (1-10):
 - neibewood
 
 
-format:
+## format for each apt:
 
 - name
 - url
@@ -89,3 +87,4 @@ format:
 - available
 - size
 - rating (people)
+- pros/cons
